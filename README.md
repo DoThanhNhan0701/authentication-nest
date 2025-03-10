@@ -32,6 +32,15 @@
 $ npm install
 ```
 
+## .env
+
+DATABASE_TYPE=postgres
+DATABASE_HOST=172.17.0.2
+DATABASE_USERNAME=admin
+DATABASE_PASSWORD=admin123
+DATABASE_NAME=authen
+JWT_SECRET=1000000
+
 ## Compile and run the project
 
 ```bash
